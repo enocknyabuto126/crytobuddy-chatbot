@@ -135,23 +135,7 @@ The chatbot understands natural language queries. Try these examples:
 - `process_query()`: Main query processing logic
 - `get_crypto_info()`: Detailed crypto analysis
 
-## 🎯 Assignment Requirements Met
 
-✅ **Rule-based chatbot** using if-else logic  
-✅ **Cryptocurrency data analysis** for trends and sustainability  
-✅ **Investment advice** based on profitability and sustainability  
-✅ **Conversational interface** with natural language processing  
-✅ **Predefined dataset** as specified in assignment  
-✅ **Ethics disclaimer** about crypto risks  
-✅ **Friendly personality** with emoji and engaging responses  
-
-## 🚀 Stretch Goals (Future Enhancements)
-
-- **API Integration**: Pull real-time data using CoinGecko's free API
-- **NLP Enhancement**: Use NLTK for more natural language queries
-- **Machine Learning**: Add sentiment analysis and trend prediction
-- **Web Interface**: Create a web-based chatbot interface
-- **Database Integration**: Store conversation history and user preferences
 
 ## ⚠️ Important Disclaimer
 
